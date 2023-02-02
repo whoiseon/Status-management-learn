@@ -1,5 +1,5 @@
 {
-  "name": "2.redux-directory",
+  "name": "1.mobx",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "redux": "^4.2.0"
+    "mobx": "^6.7.0"
   }
 }

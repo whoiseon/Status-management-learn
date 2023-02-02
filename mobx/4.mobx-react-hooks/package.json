@@ -1,5 +1,5 @@
 {
-  "name": "4.react-redux-immer",
+  "name": "5.react-redux-toolkit",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,17 +9,18 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@pmmmwh/react-refresh-webpack-plugin": "^0.5.10",
-    "immer": "^9.0.19",
+    "@babel/plugin-proposal-class-properties": "^7.18.6",
+    "@babel/plugin-proposal-decorators": "^7.20.13",
+    "mobx": "^6.7.0",
+    "mobx-react": "^7.6.0",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0",
-    "react-redux": "^8.0.5",
-    "redux": "^4.2.0"
+    "react-dom": "^18.2.0"
   },
   "devDependencies": {
     "@babel/core": "^7.20.12",
     "@babel/preset-env": "^7.20.2",
     "@babel/preset-react": "^7.18.6",
+    "@pmmmwh/react-refresh-webpack-plugin": "^0.5.10",
     "babel-loader": "^9.1.2",
     "react-refresh": "^0.14.0",
     "webpack": "^5.75.0",
