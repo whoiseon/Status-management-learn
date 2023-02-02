@@ -1,3 +1,3 @@
-# redux-practice
-
-리덕스 개념 이해하기.
+# Status management learn
+<hr />
+상태관리 라이브러리 연습
